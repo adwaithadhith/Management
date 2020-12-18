@@ -1,11 +1,8 @@
 # MO-Tech
 
-<p align="center">
-<img src="https://telegra.ph/file/99f34c15f9a1d86986fac.jpg" alt="Mo Tech Youtube">
 
-# 👉SUBSCRIBE👇
 
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/SUBSCRIBE%20MY-CHANNEL-red.svg?logo=Youtube"></a>
+
 
 ## CONTECT
 
@@ -36,5 +33,5 @@
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/MYM-GROUP)
-
+#JOIN https://t.me/movie_villa_
 
