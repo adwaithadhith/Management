@@ -33,5 +33,5 @@
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mo-Tech-Muhammed/MYM-GROUP)
-#JOIN https://t.me/movie_villa_
+#JOIN https://t.me/movie_villa_group
 
